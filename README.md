@@ -1,6 +1,6 @@
 ### Ola! Eu sou Luca Tudeia (Ou C0lina)... 💻
 
-[![YOUTUBE]https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/@PsYDuCKdev)
+[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PsYDuCKdev)
 
 
 ![C0lina GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
