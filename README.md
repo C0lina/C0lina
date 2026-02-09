@@ -3,8 +3,6 @@
 [![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PsYDuCKdev)
 
 
-![C0lina GitHub stats](https://github-readme-stats.vercel.app/api?username=C0lina&show_icons=true&theme=dracula)
-
 ### Tecnologias do Dia a Dia
 
 <div style="display: inline_block"><br/>
