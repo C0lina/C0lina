@@ -1,7 +1,5 @@
 ### Ola! Eu sou Luca Tudeia (Ou C0lina)... 💻
 
-[![YOUTUBE](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@PsYDuCKdev)
-
 
 ### Tecnologias do Dia a Dia
 
